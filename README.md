@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Discord">
+  <a href="https://discordapp.com/users/239497229285589002" alt="Discord">
   <img src="https://img.shields.io/badge/-Discord-7389D8?style=flat-square&labelColor=7389D8&logo=discord&logoColor=white&link=https://discord.com/invite/5nGKNRt" /></a>
 </p>
 
