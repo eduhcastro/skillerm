@@ -3,12 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Ola! me chamo Eduardo e atualmente estudo <strong>React</strong>.<br>
-  Mas tambem me divirto com PHP 😀.
+  Ola! me chamo Eduardo e atualmente tenho 20 anos e sou fascinado pelo mundo da progração!
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP, </strong><strong>Node.js, </strong><strong>React</strong>
+  🦄 Linguagens: <strong>PHP, </strong><strong>Node.js, </strong><strong>React</strong>, </strong><strong>Java</strong>, </strong><strong>C#</strong>
 </p>
 
 <p align="left">
