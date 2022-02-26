@@ -4,6 +4,9 @@
 
 "BackEnd is my field, and that's what I'm passionate about!"
 
+![](https://github.com/skillerm/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/skillerm/github-stats/blob/master/generated/overview.svg)
+
 ### Experience:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
